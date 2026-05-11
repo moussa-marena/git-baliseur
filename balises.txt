@@ -1,2 +1,2 @@
 # Liste des balises 
-DKR-01, PHARE SUR BRANCHE des Mamelles, 14.7167,-17.5167 
+DKR-01, PHARE VERSION MAIN
