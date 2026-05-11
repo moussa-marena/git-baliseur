@@ -1,3 +1,4 @@
 # Liste des balises 
 DKR-01, PHARE VERSION MAIN
 
+DKR-99, Balise Erreur, 0,0 
