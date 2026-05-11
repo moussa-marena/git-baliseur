@@ -1,1 +1,2 @@
-DKR-01, Phare des Mamelles (MODIF BRANCHE), 14.7167,-17.5167 
+# Liste des balises 
+DKR-01, Phare des Mamelles, 14.7167,-17.5167 
