@@ -1,0 +1,3 @@
+# Liste des balises maritimes du port de Dakar 
+DKR-01, Phare des Mamelles, 14.7167,-17.5167 
+DKR-02, Bouee Goree-Nord, 14.6700,-17.3950 
